@@ -4831,7 +4831,7 @@ input[type="button"].btn-block {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: rgba(0, 0, 0, 0.03); 
   border-bottom: 0 solid rgba(0, 0, 0, 0.125);
 }
 
@@ -36088,7 +36088,8 @@ input[type=button].btn-block {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9);
+  /* color: rgba(0, 0, 0, 0.9); */
+  color: #554c00;
 }
 
 .navbar-light .navbar-brand:hover,
@@ -36258,7 +36259,8 @@ input[type=button].btn-block {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: rgba(0, 0, 0, 0.03);
+  /* background-color: rgba(0, 0, 0, 0.03); */
+  background-color: #000;
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
 
